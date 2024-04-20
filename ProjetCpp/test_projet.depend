@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1697300682 source:c:\users\pc\desktop\c++\test_projet\main.cpp
+	<iostream>
+	<vector>
+	"header.h"
+	"voyageur.h"
+
+1697318750 c:\users\pc\desktop\c++\test_projet\header.h
+	<iostream>
+
+1697299096 c:\users\pc\desktop\c++\test_projet\voyageur.h
+
+1698111448 source:c:\users\pc\folders\c++\test_projet\main.cpp
+	<iostream>
+	<vector>
+	"header.h"
+	"voyageur.h"
+
+1698009652 c:\users\pc\folders\c++\test_projet\header.h
+	<iostream>
+
+1698024556 c:\users\pc\folders\c++\test_projet\voyageur.h
+
+1703515409 source:c:\users\pc\folders\c++\projet_cpp\main.cpp
+	<iostream>
+	<vector>
+	"header.h"
+	"voyageur.h"
+	"billet.h"
+	<cstdlib>
+
+1703439190 c:\users\pc\folders\c++\projet_cpp\header.h
+	<iostream>
+
+1703439190 c:\users\pc\folders\c++\projet_cpp\voyageur.h
+
+1701113890 c:\users\pc\folders\c++\projet_cpp\billet.h
+	<iostream>
+
